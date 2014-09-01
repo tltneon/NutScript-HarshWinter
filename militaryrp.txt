@@ -2,6 +2,6 @@
 {
 	"base"		"nutscript"
 	"title"		"Military Roleplay (Harsh Winter)"
-	"author"	"Chessnut & Kerdizoume & HappyGoLucky Test"
+	"author"	"Chessnut & Kerdizoume & HappyGoLucky"
 	"menusystem" "1"
 }
