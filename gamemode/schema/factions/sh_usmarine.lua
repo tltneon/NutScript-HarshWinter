@@ -1,33 +1,20 @@
 -- The 'nice' name of the faction.
 FACTION.name = "United States Marine"
 -- A description used in tooltips in various menus.
-FACTION.desc = "A standard ."
+FACTION.desc = "A standard Marine deployed from the United States."
 -- A color to distinguish factions from others, used for stuff such as
 -- name color in OOC chat.
-FACTION.color = Color(70, 70, 220)
+FACTION.color = Color(55, 197, 0)
 -- Set the male model choices for character creation.
 FACTION.maleModels = {
-	"models/rusty/natguard/male_01.mdl",
-	"models/rusty/natguard/male_02.mdl",
-	"models/rusty/natguard/male_03.mdl",
-	"models/rusty/natguard/male_04.mdl",
-	"models/rusty/natguard/male_05.mdl",
-	"models/rusty/natguard/male_06.mdl",
-	"models/rusty/natguard/male_07.mdl",
-	"models/rusty/natguard/male_08_.mdl",
-	"models/rusty/natguard/male_09.mdl"
+	"models/gulfamericans/woodland/soldier1.mdl",
+	"models/gulfamericans/woodland/soldier2.mdl",
+	"models/gulfamericans/woodland/soldier3.mdl",
+	"models/gulfamericans/woodland/soldier4.mdl"
 }
 
-FACTION.femaleModels = {
-	"models/army/female_01.mdl",
-	"models/army/female_02.mdl",
-	"models/army/female_03.mdl",
-	"models/army/female_04.mdl",
-	"models/army/female_06.mdl",
-	"models/army/female_07.mdl"
-}
 -- Set the female models to be the same as male models.
---FACTION.femaleModels = FACTION.maleModels
+FACTION.femaleModels = FACTION.maleModels
 -- Set it so the faction requires a whitelist.
 FACTION.isDefault = true
 
