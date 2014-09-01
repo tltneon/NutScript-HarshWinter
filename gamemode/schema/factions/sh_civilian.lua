@@ -4,7 +4,7 @@ FACTION.name = "Civilian"
 FACTION.desc = "A civilian that is just a resient of this area."
 -- A color to distinguish factions from others, used for stuff such as
 -- name color in OOC chat.
-FACTION.color = Color(20, 150, 15)
+FACTION.color = Color(0, 125, 244)
 
 -- FACTION.index is defined when the faction is registered and is just a numeric ID.
 -- Here, we create a global variable for easier reference to the ID.
