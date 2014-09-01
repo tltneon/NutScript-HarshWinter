@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"nutscript"
+	"title"		"Military Roleplay (Modern)"
+	"author"	"Chessnut & Kerdizoume"
+	"menusystem" "1"
+}
