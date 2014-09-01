@@ -22,9 +22,11 @@ FACTION.femaleModels = FACTION.maleModels
 FACTION.isDefault = false
 
 -- Return what the name will be set for character creation.
---function FACTION:GetDefaultName()
---	return "CP-RCT."..math.random(111, 999)
---end
+--[[
+function FACTION:GetDefaultName()
+	return "CP-RCT."..math.random(111, 999)
+end
+--]]
 
 -- FACTION.index is defined when the faction is registered and is just a numeric ID.
 -- Here, we create a global variable for easier reference to the ID.
