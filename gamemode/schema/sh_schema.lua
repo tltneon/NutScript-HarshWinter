@@ -1,5 +1,5 @@
 SCHEMA.name = "Military Roleplay"
-SCHEMA.author = "Kerdizoume"
+SCHEMA.author = "Kerdizoume & HappyGoLucky"
 SCHEMA.desc = "A Military Roleplaying Gamemode. Framework by chessnut. (Author of NutScript)"
 SCHEMA.uniqueID = "militaryrp" -- Schema will be a unique identifier stored in the database.
 -- Using a uniqueID will allow for renaming the schema folder.
