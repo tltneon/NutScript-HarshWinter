@@ -1,7 +1,7 @@
 "Gamemode"
 {
 	"base"		"nutscript"
-	"title"		"Military Roleplay (Harsh Winter)"
-	"author"	"Chessnut & Kerdizoume & HappyGoLucky"
+	"title"		"Harsh Winter (Military Roleplay)"
+	"author"	"Kerdizoume & HappyGoLucky"
 	"menusystem" "1"
 }
