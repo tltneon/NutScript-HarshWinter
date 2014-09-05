@@ -5,7 +5,7 @@ SCHEMA.uniqueID = "harshwinter" -- Schema will be a unique identifier stored in 
 -- Using a uniqueID will allow for renaming the schema folder.
 
 -- Configure some stuff specific to this schema.
-nut.currency.SetUp("USD", "USD's")
+nut.currency.SetUp("RUB", "RUB's")
 nut.config.menuMusic = "http://7609.live.streamtheworld.com:80/977_SMOOJAZZ_SC"
 
 nut.util.Include("sv_hooks.lua")
